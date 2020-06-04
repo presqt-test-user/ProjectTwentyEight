@@ -1,7 +1,35 @@
 {
     "allKeywords": [
+        "test",
+        "animals",
+        "water",
+        "eggs",
+        "words"
     ],
     "actions": [
+        {
+            "id": "c380dff2-6c71-4d3b-abc9-73733a0385ec",
+            "details": "PresQT Transfer from GitHub to OSF",
+            "actionDateTime": "2020-06-04 15:17:13.395964+00:00",
+            "actionType": "transfer_enhancement",
+            "sourceTargetName": "github",
+            "sourceUsername": "presqt-test-user",
+            "destinationTargetName": "github",
+            "destinationUsername": "presqt-test-user",
+            "keywords": {
+                "sourceKeywordsAdded": [],
+                "sourceKeywordsEnhanced": [
+                    "test",
+                    "words"
+                ],
+                "enhancer": "scigraph"
+            },
+            "files": {
+                "created": [],
+                "updated": [],
+                "ignored": []
+            }
+        },
         {
             "id": "65643b4a-2e1f-49d3-ac53-60b7be7f31ad",
             "details": "PresQT Transfer from GitHub to OSF",
